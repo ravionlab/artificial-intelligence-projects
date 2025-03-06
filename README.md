@@ -22,6 +22,6 @@ We aim to **revolutionize AI applications** by building **cutting-edge models** 
 - **Docker & Kubernetes for Deployment**
 
 ## 🚀 Get Involved
-🔗 **[View All Projects on GitHub](https://github.com/YOUR_USERNAME/artificial-intelligence-projects)**  
+🔗 **[View All Projects on GitHub]((https://github.com/ravionlab/artificial-intelligence-projects))**  
 📩 Contribute to AI projects, report issues, or suggest improvements!
 
